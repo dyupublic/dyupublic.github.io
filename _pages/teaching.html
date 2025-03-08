@@ -12,6 +12,10 @@ author_profile: true
       height: 1px;
       background-color: lightgray; /* Light gray color */
     }
+  /* Initially hide the paragraph */
+    .hidden-paragraph {
+      display: none;
+    }
 </style>
 
 <body>
@@ -36,6 +40,26 @@ author_profile: true
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
+
+
+<p><span class="click-word" onclick="toggleParagraph()">Click this word</span> to show or hide the paragraph.</p>
+
+  <!-- Hidden paragraph -->
+  <p class="hidden-paragraph">This is the hidden paragraph that will be shown or hidden when you click the word above.</p>
+
+  <script>
+    function toggleParagraph() {
+      // Get the paragraph element
+      const paragraph = document.querySelector('.hidden-paragraph');
+      
+      // Toggle the display property between none and block
+      if (paragraph.style.display === 'none' || paragraph.style.display === '') {
+        paragraph.style.display = 'block'; // Show the paragraph
+      } else {
+        paragraph.style.display = 'none'; // Hide the paragraph
+      }
+    }
+  </script>
   
 </body>
 </html>
