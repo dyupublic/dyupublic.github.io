@@ -27,3 +27,6 @@ Introduces programming for data and information science through case studies in 
 DS 4420 Machine Learning and Data Mining 2
 
 Continues with supervised and unsupervised predictive modeling, data mining, and machine-learning concepts. Covers mathematical and computational aspects of learning algorithms, including kernels, time-series data, collaborative filtering, support vector machines, neural networks, Bayesian learning and Monte Carlo methods, multiple regression, and optimization. Uses mathematical proofs and empirical analysis to assess validity and performance of algorithms. Studies additional computational aspects of probability, statistics, and linear algebra that support algorithms. Requires programming in R and Python. Applies concepts to common problem domains, including spam filtering.
+
+
+More course information can be found here: https://catalog.northeastern.edu/undergraduate/computer-information-science/data-science/data-science-bs/#programrequirementstext
