@@ -22,7 +22,7 @@ author_profile: true
 <hr>
 
 <p>
-  <b>Teaching Philosophy</b>:DS 2000 Programming with Data introduces programming for data and information science through case studies in business, sports, education, social science, economics, and the natural world. Presents key concepts in programming, data structures, and data analysis through Python and Excel. Integrates the use of data analytics libraries and tools. Surveys techniques for acquiring and programmatically integrating data from different sources. Explains the data analytics pipeline and how to apply programming at each stage. Discusses the programmatic retrieval of data from application programming interfaces (APIs) and from databases. Introduces predictive analytics for forecasting and classification. Demonstrates the limitations of statistical techniques.
+  <b>Teaching Philosophy</b>: DS 2000 Programming with Data introduces programming for data and information science through case studies in business, sports, education, social science, economics, and the natural world. Presents key concepts in programming, data structures, and data analysis through Python and Excel. Integrates the use of data analytics libraries and tools. Surveys techniques for acquiring and programmatically integrating data from different sources. Explains the data analytics pipeline and how to apply programming at each stage. Discusses the programmatic retrieval of data from application programming interfaces (APIs) and from databases. Introduces predictive analytics for forecasting and classification. Demonstrates the limitations of statistical techniques.
 </p>
 
 <p>
@@ -41,7 +41,6 @@ author_profile: true
   <li>Milk</li>
 </ul> 
 
-
 <p><span class="click-word" onclick="toggleParagraph()">Click this word</span> to show or hide the paragraph.</p>
 
   <!-- Hidden paragraph -->
@@ -49,15 +48,10 @@ author_profile: true
 
   <script>
     function toggleParagraph() {
-      // Get the paragraph element
       const paragraph = document.querySelector('.hidden-paragraph');
       
-      // Toggle the display property between none and block
-      if (paragraph.style.display === 'none' || paragraph.style.display === '') {
-        paragraph.style.display = 'block'; // Show the paragraph
-      } else {
-        paragraph.style.display = 'none'; // Hide the paragraph
-      }
+      // Toggle the display of the paragraph
+      paragraph.style.display = (paragraph.style.display === 'block') ? 'none' : 'block';
     }
   </script>
   
