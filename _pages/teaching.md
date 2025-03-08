@@ -30,5 +30,5 @@ Continues with supervised and unsupervised predictive modeling, data mining, and
 
 
 More course information can be found here: 
-- [Undergraduate DS Courses](https://catalog.northeastern.edu/undergraduate/computer-information-science/data-science/#coursestext)
-- [Graduate DS Courses](https://catalog.northeastern.edu/graduate/computer-information-science/computer-science/data-science-ms/#programrequirementstext)
+- [Undergraduate DS Courses](https://catalog.northeastern.edu/undergraduate/computer-information-science/data-science/#coursestext){:target="_blank"}
+- [Graduate DS Courses](https://catalog.northeastern.edu/graduate/computer-information-science/computer-science/data-science-ms/#programrequirementstext){:target="_blank"}
