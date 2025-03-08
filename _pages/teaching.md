@@ -6,7 +6,15 @@ author_profile: true
 ---
 
 
-Northeastern University
+
+Teaching Philosophy
+------
+blah
+
+Current Course
 ------
 - DS 
-- DS
+
+Past Courses
+------
+- DS 4420
