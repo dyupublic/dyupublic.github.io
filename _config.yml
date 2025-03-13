@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TEST"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "NAME"
+  name             : "Deahan Yu"
   avatar           : "profile.png"
   bio              : "NLP, ML, Health Informatics, Data Science"
   location         : #"Boston"
