@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "NLP, ML, Health Informatics, Data Science"
   location         : #"Boston"
-  employer         : #"Northeastern"
+  employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #d.yu@northeastern.edu
-  researchgate     : "https://www.researchgate.net/profile/Deahan-Yu" 
+  email            : #
+  researchgate     : #
   uri              :
   bitbucket        :
   codepen          :
